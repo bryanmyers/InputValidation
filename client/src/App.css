@@ -1,0 +1,33 @@
+main {
+  width: 100%;
+  max-width: 500px;
+  margin-inline: auto;
+  margin-top: 40px;
+  padding: 40px;
+  box-sizing: border-box;
+  
+}
+form {
+  width:100%;
+}
+
+label {
+  display:block;
+  margin-top: 30px;
+}
+
+input {
+  width: 100%
+}
+
+input.error {
+  border: 1px solid red;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+button {
+  margin-top: 30px
+}
